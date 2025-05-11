@@ -7,7 +7,7 @@
 <b>My topic</b>
 <hr/>
 
-- 🔭 I’m worked on **Dta-Driven Cricket Bowling Machine**
+- 🔭 I’m worked on **Data-Driven Cricket Bowling Machine**
 
 - 🌱 I’m currently learning **Microsoft Azure,R,Cyber security**
 
