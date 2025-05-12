@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Senuri Sewmini</h1>
 <h3 align="center">A Physics and Electronics graduate passionate about innovation, automation, and full-stack development with projects spanning data-driven systems, Java applications, and web technologies from Sri Lanka</h3>
 
-<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=senurisewmini&label=Profile%20views&color=0e75b6&style=flat" alt="senurisewmini" /> </p></center>
+<center><p> <img src="https://komarev.com/ghpvc/?username=senurisewmini&label=Profile%20views&color=0e75b6&style=flat" alt="senurisewmini" /> </p></center>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senurisewmini" alt="senurisewmini" /></a> </p>
 
